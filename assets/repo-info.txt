@@ -1,0 +1,3 @@
+context-management
+
+Research Process Context Checkpointing Engine — persists research process and results to disk via >=500-line markdown checkpoints during multi-phase research sessions.
