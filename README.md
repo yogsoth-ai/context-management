@@ -101,4 +101,4 @@ claude plugin add yogsoth-ai/context-management
 
 ## 📜 License
 
-MIT
+Apache 2.0
